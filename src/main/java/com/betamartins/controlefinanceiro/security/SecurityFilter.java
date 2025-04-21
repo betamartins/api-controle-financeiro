@@ -1,6 +1,6 @@
 package com.betamartins.controlefinanceiro.security;
 
-import com.betamartins.controlefinanceiro.repository.UserRepository;
+import com.betamartins.controlefinanceiro.repository.user.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

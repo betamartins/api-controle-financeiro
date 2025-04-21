@@ -1,6 +1,6 @@
 package com.betamartins.controlefinanceiro.security;
 
-import com.betamartins.controlefinanceiro.repository.UserRepository;
+import com.betamartins.controlefinanceiro.repository.user.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

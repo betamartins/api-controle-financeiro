@@ -1,4 +1,4 @@
-package com.betamartins.controlefinanceiro.repository;
+package com.betamartins.controlefinanceiro.repository.user;
 
 import com.betamartins.controlefinanceiro.model.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
